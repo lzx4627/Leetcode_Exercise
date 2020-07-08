@@ -1,4 +1,4 @@
-package com.cicisp;
+package com.cicisp.exercise;
 
 
 /**
