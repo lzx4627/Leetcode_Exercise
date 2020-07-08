@@ -16,4 +16,4 @@ leetcode—exercise
 
 interview
 
-16.11[跳水板](https://github.com/lzx4627/Leetcode_Exercise/blob/master/src/main/java/com/cicisp/exercise/interview/interview_16_11.java/)
+16.11[跳水板](https://github.com/lzx4627/Leetcode_Exercise/blob/master/src/main/java/com/cicisp/interview/interview_16_11.java)
