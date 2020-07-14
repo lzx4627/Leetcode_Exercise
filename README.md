@@ -12,6 +12,8 @@ leetcode—exercise
 
 【简单】112.[路径总和](https://github.com/lzx4627/Leetcode_Exercise/blob/master/src/main/java/com/cicisp/exercise/leetcode_112.java)
 
+【中等】120.[三角形最小路径和](https://github.com/lzx4627/Leetcode_Exercise/blob/master/src/main/java/com/cicisp/exercise/leetcode_120.java)
+
 【中等】309.[最佳买卖股票时机含冷冻期](https://github.com/lzx4627/Leetcode_Exercise/blob/master/src/main/java/com/cicisp/exercise/leetcode_309.java)
 
 【简单】350.[两个数组的交集 II](https://github.com/lzx4627/Leetcode_Exercise/blob/master/src/main/java/com/cicisp/exercise/leetcode_350.java)
