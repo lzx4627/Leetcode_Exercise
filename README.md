@@ -8,6 +8,8 @@ leetcode—exercise
 
 【中等】063.[不同路径 II](https://github.com/lzx4627/Leetcode_Exercise/blob/master/src/main/java/com/cicisp/exercise/leetcode_63.java)
 
+【中等】096.[不同的二叉搜索树](https://github.com/lzx4627/Leetcode_Exercise/blob/master/src/main/java/com/cicisp/exercise/leetcode_96.java)
+
 【简单】108.[将有序数组转换为二叉搜索树](https://github.com/lzx4627/Leetcode_Exercise/blob/master/src/main/java/com/cicisp/exercise/leetcode_108.java)
 
 【简单】112.[路径总和](https://github.com/lzx4627/Leetcode_Exercise/blob/master/src/main/java/com/cicisp/exercise/leetcode_112.java)
