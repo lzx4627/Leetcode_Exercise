@@ -4,6 +4,8 @@ leetcode—exercise
 
 【困难】032.[最长有效括号](https://github.com/lzx4627/Leetcode_Exercise/blob/master/src/main/java/com/cicisp/exercise/leetcode_32.java)
 
+【简单】035.[搜索插入位置](https://github.com/lzx4627/Leetcode_Exercise/blob/master/src/main/java/com/cicisp/exercise/leetcode_35.java)
+
 【困难】044.[通配符匹配](https://github.com/lzx4627/Leetcode_Exercise/blob/master/src/main/java/com/cicisp/exercise/leetcode_44.java)
 
 【中等】063.[不同路径 II](https://github.com/lzx4627/Leetcode_Exercise/blob/master/src/main/java/com/cicisp/exercise/leetcode_63.java)
