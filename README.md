@@ -20,6 +20,8 @@ leetcode—exercise
 
 【中等】120.[三角形最小路径和](https://github.com/lzx4627/Leetcode_Exercise/blob/master/src/main/java/com/cicisp/exercise/leetcode_120.java)
 
+【中等】153.[寻找旋转排序数组中的最小值](https://github.com/lzx4627/Leetcode_Exercise/blob/master/src/main/java/com/cicisp/exercise/leetcode_153.java)
+
 【困难】154.[寻找旋转排序数组中的最小值 II](https://github.com/lzx4627/Leetcode_Exercise/blob/master/src/main/java/com/cicisp/exercise/leetcode_154.java)
 
 【中等】309.[最佳买卖股票时机含冷冻期](https://github.com/lzx4627/Leetcode_Exercise/blob/master/src/main/java/com/cicisp/exercise/leetcode_309.java)
