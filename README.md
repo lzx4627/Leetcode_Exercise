@@ -34,6 +34,8 @@ leetcode—exercise
 
 【中等】785.[判断二分图](https://github.com/lzx4627/Leetcode_Exercise/blob/master/src/main/java/com/cicisp/exercise/leetcode_785.java)
 
+【简单】1025.[除数博弈](https://github.com/lzx4627/Leetcode_Exercise/blob/master/src/main/java/com/cicisp/exercise/leetcode_1025.java)
+
 
 
 interview
