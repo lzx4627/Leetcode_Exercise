@@ -18,7 +18,9 @@ public class leetcode_378{
     public static int count(int num,int[][] matrix){
         int res=0,s=0;
         for(int i=n-1;i>=0;i--){
-            while(s<n&&matrix[i][s]<=num)s++;
+            while(s<n&&matrix[i][s]<=num){
+                s++;
+            }
             res+=s;
         }
         return res;
@@ -28,8 +30,12 @@ public class leetcode_378{
         int left=matrix[0][0],right=matrix[n-1][n-1];
         while(left<right){
             int mid=(left+right)/2,cnt=count(mid,matrix);
-            if(cnt>=k)right=mid;
-            else left=mid+1;
+            if(cnt>=k){
+                right=mid;
+            }
+            else {
+                left=mid+1;
+            }
         }
         return left;
     }
