@@ -28,6 +28,8 @@ leetcode—exercise
 
 【困难】154.[寻找旋转排序数组中的最小值 II](https://github.com/lzx4627/Leetcode_Exercise/blob/master/src/main/java/com/cicisp/exercise/leetcode_154.java)
 
+【中等】207.[课程表](https://github.com/lzx4627/Leetcode_Exercise/blob/master/src/main/java/com/cicisp/exercise/leetcode_207.java)
+
 【中等】309.[最佳买卖股票时机含冷冻期](https://github.com/lzx4627/Leetcode_Exercise/blob/master/src/main/java/com/cicisp/exercise/leetcode_309.java)
 
 【中等】337.[打家劫舍 III](https://github.com/lzx4627/Leetcode_Exercise/blob/master/src/main/java/com/cicisp/exercise/leetcode_337.java)
@@ -37,6 +39,8 @@ leetcode—exercise
 【中等】378.[有序矩阵中第K小的元素](https://github.com/lzx4627/Leetcode_Exercise/blob/master/src/main/java/com/cicisp/exercise/leetcode_378.java)
 
 【简单】392.[判断子序列](https://github.com/lzx4627/Leetcode_Exercise/blob/master/src/main/java/com/cicisp/exercise/leetcode_392.java)
+
+【简单】415.[字符串相加](https://github.com/lzx4627/Leetcode_Exercise/blob/master/src/main/java/com/cicisp/exercise/leetcode_415.java)
 
 【中等】785.[判断二分图](https://github.com/lzx4627/Leetcode_Exercise/blob/master/src/main/java/com/cicisp/exercise/leetcode_785.java)
 
