@@ -2,6 +2,7 @@ leetcode—exercise
 
 | 题号 |   难度   |             题目              |  C   |                             java                             | python |
 | :--: | :------: | :---------------------------: | :--: | :----------------------------------------------------------: | :----: |
+| 0001 | 【简单】 |           两数之和            |      | [两数之和](https://github.com/lzx4627/Leetcode_Exercise/blob/master/src/main/java/com/cicisp/exercise/leetcode_1.java) |        |
 | 0002 | 【中等】 |           两数相加            |      | [两数相加](https://github.com/lzx4627/Leetcode_Exercise/blob/master/src/main/java/com/cicisp/exercise/leetcode_2.java) |        |
 | 0032 | 【困难】 |         最长有效括号          |      | [最长有效括号](https://github.com/lzx4627/Leetcode_Exercise/blob/master/src/main/java/com/cicisp/exercise/leetcode_32.java) |        |
 | 0035 | 【简单】 |         搜索插入位置          |      | [搜索插入位置](https://github.com/lzx4627/Leetcode_Exercise/blob/master/src/main/java/com/cicisp/exercise/leetcode_35.java) |        |

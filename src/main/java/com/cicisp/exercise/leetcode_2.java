@@ -39,8 +39,12 @@ class Solution {
         carry = sum / 10;
         curr.next = new ListNode(sum % 10);
         curr = curr.next;
-        if (p != null) p = p.next;
-        if (q != null) q = q.next;
+        if (p != null) {
+            p = p.next;
+        }
+        if (q != null) {
+            q = q.next;
+        }
     }
     if (carry > 0) {
         curr.next = new ListNode(carry);
