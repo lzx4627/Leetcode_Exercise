@@ -12,6 +12,7 @@ leetcode—exercise
 | 0095 | 【中等】 |      不同的二叉搜索树 II      |      | [不同的二叉搜索树 II](https://github.com/lzx4627/Leetcode_Exercise/blob/master/src/main/java/com/cicisp/exercise/leetcode_95.java) |        |
 | 0096 | 【中等】 |       不同的二叉搜索树        |      | [不同的二叉搜索树](https://github.com/lzx4627/Leetcode_Exercise/blob/master/src/main/java/com/cicisp/exercise/leetcode_96.java) |        |
 | 0097 | 【困难】 |          交错字符串           |      | [交错字符串](https://github.com/lzx4627/Leetcode_Exercise/blob/master/src/main/java/com/cicisp/exercise/leetcode_97.java) |        |
+| 0100 | 【简单】 |           相同的树            |      | [相同的树](https://github.com/lzx4627/Leetcode_Exercise/blob/master/src/main/java/com/cicisp/exercise/leetcode_100.java) |        |
 | 0108 | 【简单】 |  将有序数组转换为二叉搜索树   |      | [将有序数组转换为二叉搜索树](https://github.com/lzx4627/Leetcode_Exercise/blob/master/src/main/java/com/cicisp/exercise/leetcode_108.java) |        |
 | 0112 | 【简单】 |           路径总和            |      | [路径总和](https://github.com/lzx4627/Leetcode_Exercise/blob/master/src/main/java/com/cicisp/exercise/leetcode_112.java) |        |
 | 0120 | 【中等】 |       三角形最小路径和        |      | [三角形最小路径和](https://github.com/lzx4627/Leetcode_Exercise/blob/master/src/main/java/com/cicisp/exercise/leetcode_120.java) |        |
