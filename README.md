@@ -12,6 +12,7 @@ leetcode—exercise
 | 0095 | 【中等】 |      不同的二叉搜索树 II      |      | [不同的二叉搜索树 II](https://github.com/lzx4627/Leetcode_Exercise/blob/master/src/main/java/com/cicisp/exercise/leetcode_95.java) |        |
 | 0096 | 【中等】 |       不同的二叉搜索树        |      | [不同的二叉搜索树](https://github.com/lzx4627/Leetcode_Exercise/blob/master/src/main/java/com/cicisp/exercise/leetcode_96.java) |        |
 | 0097 | 【困难】 |          交错字符串           |      | [交错字符串](https://github.com/lzx4627/Leetcode_Exercise/blob/master/src/main/java/com/cicisp/exercise/leetcode_97.java) |        |
+| 0099 | 【困难】 |        恢复二叉搜索树         |      | [恢复二叉搜索树](https://github.com/lzx4627/Leetcode_Exercise/blob/master/src/main/java/com/cicisp/exercise/leetcode_99.java) |        |
 | 0100 | 【简单】 |           相同的树            |      | [相同的树](https://github.com/lzx4627/Leetcode_Exercise/blob/master/src/main/java/com/cicisp/exercise/leetcode_100.java) |        |
 | 0108 | 【简单】 |  将有序数组转换为二叉搜索树   |      | [将有序数组转换为二叉搜索树](https://github.com/lzx4627/Leetcode_Exercise/blob/master/src/main/java/com/cicisp/exercise/leetcode_108.java) |        |
 | 0112 | 【简单】 |           路径总和            |      | [路径总和](https://github.com/lzx4627/Leetcode_Exercise/blob/master/src/main/java/com/cicisp/exercise/leetcode_112.java) |        |
@@ -26,6 +27,7 @@ leetcode—exercise
 | 0378 | 【中等】 |     有序矩阵中第K小的元素     |      | [有序矩阵中第K小的元素](https://github.com/lzx4627/Leetcode_Exercise/blob/master/src/main/java/com/cicisp/exercise/leetcode_378.java) |        |
 | 0392 | 【简单】 |          判断子序列           |      | [判断子序列](https://github.com/lzx4627/Leetcode_Exercise/blob/master/src/main/java/com/cicisp/exercise/leetcode_392.java) |        |
 | 0415 | 【简单】 |          字符串相加           |      | [字符串相加](https://github.com/lzx4627/Leetcode_Exercise/blob/master/src/main/java/com/cicisp/exercise/leetcode_415.java) |        |
+| 0696 | 【简单】 |        计数二进制子串         |      | [技术二进制子串](https://github.com/lzx4627/Leetcode_Exercise/blob/master/src/main/java/com/cicisp/exercise/leetcode_696.java) |        |
 | 0785 | 【中等】 |          判断二分图           |      | [判断二分图](https://github.com/lzx4627/Leetcode_Exercise/blob/master/src/main/java/com/cicisp/exercise/leetcode_785.java) |        |
 | 1025 | 【简单】 |           除数博弈            |      | [除数博弈](https://github.com/lzx4627/Leetcode_Exercise/blob/master/src/main/java/com/cicisp/exercise/leetcode_1025.java) |        |
 
