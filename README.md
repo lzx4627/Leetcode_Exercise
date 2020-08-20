@@ -27,6 +27,7 @@ leetcode—exercise
 | 0378 | 【中等】 |     有序矩阵中第K小的元素     |      | [有序矩阵中第K小的元素](https://github.com/lzx4627/Leetcode_Exercise/blob/master/src/main/java/com/cicisp/exercise/leetcode_378.java) |        |
 | 0392 | 【简单】 |          判断子序列           |      | [判断子序列](https://github.com/lzx4627/Leetcode_Exercise/blob/master/src/main/java/com/cicisp/exercise/leetcode_392.java) |        |
 | 0415 | 【简单】 |          字符串相加           |      | [字符串相加](https://github.com/lzx4627/Leetcode_Exercise/blob/master/src/main/java/com/cicisp/exercise/leetcode_415.java) |        |
+| 0529 | 【中等】 |           扫雷游戏            |      | [扫雷游戏](https://github.com/lzx4627/Leetcode_Exercise/blob/master/src/main/java/com/cicisp/exercise/leetcode_529.java) |        |
 | 0696 | 【简单】 |        计数二进制子串         |      | [技术二进制子串](https://github.com/lzx4627/Leetcode_Exercise/blob/master/src/main/java/com/cicisp/exercise/leetcode_696.java) |        |
 | 0785 | 【中等】 |          判断二分图           |      | [判断二分图](https://github.com/lzx4627/Leetcode_Exercise/blob/master/src/main/java/com/cicisp/exercise/leetcode_785.java) |        |
 | 1025 | 【简单】 |           除数博弈            |      | [除数博弈](https://github.com/lzx4627/Leetcode_Exercise/blob/master/src/main/java/com/cicisp/exercise/leetcode_1025.java) |        |
