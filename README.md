@@ -15,6 +15,7 @@ leetcode—exercise
 | 0099 | 【困难】 |        恢复二叉搜索树         |      | [恢复二叉搜索树](https://github.com/lzx4627/Leetcode_Exercise/blob/master/src/main/java/com/cicisp/exercise/leetcode_99.java) |        |
 | 0100 | 【简单】 |           相同的树            |      | [相同的树](https://github.com/lzx4627/Leetcode_Exercise/blob/master/src/main/java/com/cicisp/exercise/leetcode_100.java) |        |
 | 0108 | 【简单】 |  将有序数组转换为二叉搜索树   |      | [将有序数组转换为二叉搜索树](https://github.com/lzx4627/Leetcode_Exercise/blob/master/src/main/java/com/cicisp/exercise/leetcode_108.java) |        |
+| 0111 | 【简单】 |       二叉树的最小深度        |      | [二叉树的最小深度](https://github.com/lzx4627/Leetcode_Exercise/blob/master/src/main/java/com/cicisp/exercise/leetcode_111.java) |        |
 | 0112 | 【简单】 |           路径总和            |      | [路径总和](https://github.com/lzx4627/Leetcode_Exercise/blob/master/src/main/java/com/cicisp/exercise/leetcode_112.java) |        |
 | 0120 | 【中等】 |       三角形最小路径和        |      | [三角形最小路径和](https://github.com/lzx4627/Leetcode_Exercise/blob/master/src/main/java/com/cicisp/exercise/leetcode_120.java) |        |
 | 0153 | 【中等】 |  寻找旋转排序数组中的最小值   |      | [寻找旋转排序数组中的最小值](https://github.com/lzx4627/Leetcode_Exercise/blob/master/src/main/java/com/cicisp/exercise/leetcode_153.java) |        |
