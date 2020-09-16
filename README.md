@@ -69,3 +69,10 @@ offer
 | ---- | -------- | ---------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 20   | 【中等】 | 表示数值的字符串 | [表示数值的字符串](https://github.com/lzx4627/Leetcode_Exercise/blob/master/src/main/java/com/cicisp/offer/offer_20.java) | [表示数值的字符串](https://github.com/lzx4627/Leetcode_Exercise/blob/master/src/main/java/com/cicisp/offer/offer_20.py) |
 
+
+
+lcp
+
+| 题号 | 难度     | 题目     | java                                                         | python |
+| ---- | -------- | -------- | ------------------------------------------------------------ | ------ |
+| 18   | 【简单】 | 早餐组合 | [早餐组合](https://github.com/lzx4627/Leetcode_Exercise/blob/master/src/main/java/com/cicisp/lcp/lcp_18.java) |        |
