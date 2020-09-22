@@ -56,6 +56,7 @@ leetcode—exercise
 | 0696 |                          【简单】                          |        计数二进制子串         | [技术二进制子串](https://github.com/lzx4627/Leetcode_Exercise/blob/master/src/main/java/com/cicisp/exercise/leetcode_696.java) |                                                              |
 | 0785 |                          【中等】                          |          判断二分图           | [判断二分图](https://github.com/lzx4627/Leetcode_Exercise/blob/master/src/main/java/com/cicisp/exercise/leetcode_785.java) |                                                              |
 | 0841 |                          【中等】                          |          钥匙和房间           | [钥匙和房间](https://github.com/lzx4627/Leetcode_Exercise/blob/master/src/main/java/com/cicisp/exercise/leetcode_841.java) |                                                              |
+| 0968 |                          【困难】                          |          监控二叉树           | [监控二叉树](https://github.com/lzx4627/Leetcode_Exercise/blob/master/src/main/java/com/cicisp/exercise/leetcode_968.java) |                                                              |
 | 1025 |                          【简单】                          |           除数博弈            | [除数博弈](https://github.com/lzx4627/Leetcode_Exercise/blob/master/src/main/java/com/cicisp/exercise/leetcode_1025.java) |                                                              |
 
 
