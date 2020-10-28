@@ -73,6 +73,7 @@ leetcode—exercise
 | 0977 |                          【简单】                          |        有序数组的平方         | [有序数组的平方](https://github.com/lzx4627/Leetcode_Exercise/blob/master/src/main/java/com/cicisp/exercise/leetcode_977.java) |                                                              |
 | 1002 |                          【简单】                          |         查找常用字符          | [查找常用字符](https://github.com/lzx4627/Leetcode_Exercise/blob/master/src/main/java/com/cicisp/exercise/leetcode_1002.java) |                                                              |
 | 1025 |                          【简单】                          |           除数博弈            | [除数博弈](https://github.com/lzx4627/Leetcode_Exercise/blob/master/src/main/java/com/cicisp/exercise/leetcode_1025.java) |                                                              |
+| 1207 |                          【简单】                          |      独一无二的出现次数       | [独一无二的出现次数](https://github.com/lzx4627/Leetcode_Exercise/blob/master/src/main/java/com/cicisp/exercise/leetcode_1207.java) |                                                              |
 | 1365 |                          【简单】                          |      小于当前数字的个数       | [小于当前数字的个数](https://github.com/lzx4627/Leetcode_Exercise/blob/master/src/main/java/com/cicisp/exercise/leetcode_1365.java) |                                                              |
 
 
