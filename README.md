@@ -92,6 +92,7 @@ leetcode—exercise
 | 1030 |                          【简单】                          |    距离顺序排列矩阵单元格     | [距离顺序排列矩阵单元格](https://github.com/lzx4627/Leetcode_Exercise/blob/master/src/main/java/com/cicisp/exercise/leetcode_1030.java) |                                                              |
 | 1207 |                          【简单】                          |      独一无二的出现次数       | [独一无二的出现次数](https://github.com/lzx4627/Leetcode_Exercise/blob/master/src/main/java/com/cicisp/exercise/leetcode_1207.java) |                                                              |
 | 1365 |                          【简单】                          |      小于当前数字的个数       | [小于当前数字的个数](https://github.com/lzx4627/Leetcode_Exercise/blob/master/src/main/java/com/cicisp/exercise/leetcode_1365.java) |                                                              |
+| 1370 |                          【简单】                          |        上升下降字符串         | [上升下降字符串](https://github.com/lzx4627/Leetcode_Exercise/blob/master/src/main/java/com/cicisp/exercise/leetcode_1370.java) |                                                              |
 
 
 
