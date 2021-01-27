@@ -118,6 +118,7 @@ leetcode—exercise
 | 1207 |                          【简单】                          |        独一无二的出现次数        | [独一无二的出现次数](https://github.com/lzx4627/Leetcode_Exercise/blob/master/src/main/java/com/cicisp/exercise/leetcode_1207.java) |                                                              |
 | 1365 |                          【简单】                          |        小于当前数字的个数        | [小于当前数字的个数](https://github.com/lzx4627/Leetcode_Exercise/blob/master/src/main/java/com/cicisp/exercise/leetcode_1365.java) |                                                              |
 | 1370 |                          【简单】                          |          上升下降字符串          | [上升下降字符串](https://github.com/lzx4627/Leetcode_Exercise/blob/master/src/main/java/com/cicisp/exercise/leetcode_1370.java) |                                                              |
+| 1579 |                          【困难】                          |         保证图可完全遍历         | [保证图可完全遍历](https://github.com/lzx4627/Leetcode_Exercise/blob/master/src/main/java/com/cicisp/exercise/leetcode_1579.java) |                                                              |
 | 1584 |                          【中等】                          |       连接所有点的最小费用       | [连接所有点的最小费用](https://github.com/lzx4627/Leetcode_Exercise/blob/master/src/main/java/com/cicisp/exercise/leetcode_1584.java) |                                                              |
 
 
