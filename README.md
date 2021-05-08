@@ -145,6 +145,7 @@ leetcode—exercise
 | 1486 |                          【简单】                          |           数组异或操作           | [数组异或操作](https://github.com/lzx4627/Leetcode_Exercise/blob/master/src/main/java/com/cicisp/exercise/leetcode_1486.java) |                                                              |
 | 1579 |                          【困难】                          |         保证图可完全遍历         | [保证图可完全遍历](https://github.com/lzx4627/Leetcode_Exercise/blob/master/src/main/java/com/cicisp/exercise/leetcode_1579.java) |                                                              |
 | 1584 |                          【中等】                          |       连接所有点的最小费用       | [连接所有点的最小费用](https://github.com/lzx4627/Leetcode_Exercise/blob/master/src/main/java/com/cicisp/exercise/leetcode_1584.java) |                                                              |
+| 1723 |                          【困难】                          |        完成工作的最短时间        | [完成工作的最短时间](https://github.com/lzx4627/Leetcode_Exercise/blob/master/src/main/java/com/cicisp/exercise/leetcode_1723.java) |                                                              |
 
 
 
