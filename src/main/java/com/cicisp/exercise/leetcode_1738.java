@@ -1,5 +1,10 @@
 package com.cicisp.exercise;
 
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.Comparator;
+import java.util.List;
+
 /**
  * 1738. 找出第 K 大的异或坐标值
  * 给你一个二维矩阵 matrix 和一个整数 k ，矩阵大小为 m x n 由非负整数组成。
@@ -41,7 +46,7 @@ public class leetcode_1738 {
     public int kthLargestValue(int[][] matrix, int k) {
         int m = matrix.length, n = matrix[0].length;
         int[][] pre = new int[m + 1][n + 1];
-        List<Integer> res = new ArrayList();
+        List<Integer> res = new ArrayList<Integer>();
         for (int i = 1; i <= m; i ++){
             for (int j = 1; j <= n; j ++){
                 pre[i][j] = pre[i][j - 1] ^ pre[i - 1][j] ^ pre[i - 1][j - 1] ^ matrix[i - 1][j - 1];
