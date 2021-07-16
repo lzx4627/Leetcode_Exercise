@@ -47,18 +47,14 @@ public class leetcode_1846 {
     public int maximumElementAfterDecrementingAndRearranging(int[] arr) {
         Arrays.sort(arr);
         int len = arr.length;
-        int max = 1;
         if (arr[0] > 1){
             arr[0] = 1;
         }
         for (int i = 1; i < len; i ++){
-            if (arr[i] - arr[i - 1] <= 1){
-                max = arr[i];
-            }else{
+            if (arr[i] - arr[i - 1] > 1){
                 arr[i] = arr[i - 1] + 1;
-                max = arr[i];
             }
         }
-        return max;
+        return arr[len - 1];
     }
 }
