@@ -181,6 +181,7 @@ offer
 | 题号 | 难度     | 题目             | java                                                         | python                                                       |
 | ---- | -------- | ---------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 20   | 【中等】 | 表示数值的字符串 | [表示数值的字符串](https://github.com/lzx4627/Leetcode_Exercise/blob/master/src/main/java/com/cicisp/offer/offer_20.java) | [表示数值的字符串](https://github.com/lzx4627/Leetcode_Exercise/blob/master/src/main/java/com/cicisp/offer/offer_20.py) |
+| 53   | 【简单】 | 排序数值查找元素 | [排序数值查找元素](https://github.com/lzx4627/Leetcode_Exercise/blob/master/src/main/java/com/cicisp/interview/interview_53.java) |                                                              |
 
 
 
