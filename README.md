@@ -176,10 +176,11 @@ leetcode—exercise
 
 interview
 
-| 题号  |   难度   |   题目   |                             java                             |                            python                            |
-| :---: | :------: | :------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| 16.11 | 【简单】 |  跳水板  | [跳水板](https://github.com/lzx4627/Leetcode_Exercise/blob/master/src/main/java/com/cicisp/interview/interview_16_11.java) |                                                              |
-| 17.13 | 【中等】 | 恢复空格 | [恢复空格](https://github.com/lzx4627/Leetcode_Exercise/blob/master/src/main/java/com/cicisp/interview/interview_17_13.java) | [恢复空格](https://github.com/lzx4627/Leetcode_Exercise/blob/master/src/main/java/com/cicisp/interview/interview_17_13.py) |
+| 题号  |   难度   |   题目    |                             java                             |                            python                            |
+| :---: | :------: | :-------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 16.11 | 【简单】 |  跳水板   | [跳水板](https://github.com/lzx4627/Leetcode_Exercise/blob/master/src/main/java/com/cicisp/interview/interview_16_11.java) |                                                              |
+| 17.13 | 【中等】 | 恢复空格  | [恢复空格](https://github.com/lzx4627/Leetcode_Exercise/blob/master/src/main/java/com/cicisp/interview/interview_17_13.java) | [恢复空格](https://github.com/lzx4627/Leetcode_Exercise/blob/master/src/main/java/com/cicisp/interview/interview_17_13.py) |
+| 17.14 | 【中等】 | 最小k个数 | [最小前k个数](https://github.com/lzx4627/Leetcode_Exercise/blob/master/src/main/java/com/cicisp/interview/interview_17_14.java) |                                                              |
 
 
 
