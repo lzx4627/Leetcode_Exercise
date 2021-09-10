@@ -173,6 +173,7 @@ leetcode—exercise
 | 1723 |                          【困难】                          |        完成工作的最短时间        | [完成工作的最短时间](https://github.com/lzx4627/Leetcode_Exercise/blob/master/src/main/java/com/cicisp/exercise/leetcode_1723.java) |                                                              |
 | 1738 |                          【中等】                          |        第k大的异或坐标值         | [第k大的异或坐标值](https://github.com/lzx4627/Leetcode_Exercise/blob/master/src/main/java/com/cicisp/exercise/leetcode_1738.java) |                                                              |
 | 1846 |                          【中等】                          |         重排后的最大元素         | [重排后的最大元素](https://github.com/lzx4627/Leetcode_Exercise/blob/master/src/main/java/com/cicisp/exercise/leetcode_1846.java) |                                                              |
+| 1894 |                          【中等】                          |         找到补充学生编号         | [找到补充学生编号](https://github.com/lzx4627/Leetcode_Exercise/blob/master/src/main/java/com/cicisp/exercise/leetcode_1894.java) |                                                              |
 
 
 
